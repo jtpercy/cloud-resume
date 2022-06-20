@@ -1,6 +1,0 @@
-name: cloud-resume
-runtime:
-  name: python
-  options:
-    virtualenv: venv
-description: Joel Percy's Cloud Resume
