@@ -3,7 +3,7 @@ Welcome to Joel Percy's Cloud Resume GitHub project. This project was created to
 
 ## Architecture
 
-![AWS Resources](/diagrams/jtpercy_architecture.png.png)
+![AWS Resources](/diagrams/jtpercy_architectureg.png)
 
 A simple architecture pattern was followed to create this website. I use S3 buckets to host static web files, CloudFront distributions for security and caching with Route53 and Certificate manager for DNS hosting and SSL. 
 
